@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Superstore",
+  "description": "Full-stack E-Commerce web application featuring complete Customer shopping workflow and Admin management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
